@@ -1,2 +1,10 @@
 nginx
 elasticsearch:8.18.0
+gitlab/gitlab-runner:latest
+argoproj/argocd:latest
+jenkins/jenkins:lts
+jenkins/jenkins:lts-jdk17
+sonarqube:community
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.45.0
+postgres:latest
+
